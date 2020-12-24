@@ -1,5 +1,5 @@
 # Arbiter - MVP Design Thoughts 
-                                                                                   December 23, 2020  
+                                                                                    December 23, 2020  
   
 
 ## Overview
